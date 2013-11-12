@@ -1,0 +1,15 @@
+971103c209c293410449bdfb24df50f5 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+6c6dffbec8c5cf0765ca9159e08dd7e5 *R/cov.psamp.R
+79f6eb9f6e838efafb3ee9f308dc4d14 *R/covreg.mcmc.R
+61304b91c00888615849bcfeaf3e9fa0 *R/m.psamp.R
+994a37cb653eb994009be66243a8a813 *R/rmn.R
+b7e243188ee9ecd294a9a84da1c533f0 *R/rwish.R
+70e324476a046a444307792b24efd717 *data/fev.rda
+6d371d2dae87b8b4c2b2548301aa718b *man/cov.psamp.Rd
+532510ea34525c291ced06e078c324b4 *man/covreg-package.Rd
+76ef33948b3a55cee91a3d99ef5a1963 *man/covreg.mcmc.Rd
+a682b63b0f6a6262f9e8b31594a0f094 *man/fev.Rd
+be0aca003705aa32eb0f30f58a13ecf8 *man/m.psamp.Rd
+ce36d27fd572f9e4a7176f26e5d1b2a9 *man/rmn.Rd
+fd8cdb4312e7ea4d12787f0c9d9bb38a *man/rwish.Rd
